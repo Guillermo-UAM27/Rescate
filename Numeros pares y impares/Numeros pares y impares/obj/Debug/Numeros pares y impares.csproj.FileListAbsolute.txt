@@ -1,0 +1,12 @@
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros pares y impares.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros_pares_y_impares.Form1.resources
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros_pares_y_impares.Properties.Resources.resources
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros pares y impares.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros pares y impares.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\bin\Debug\Numeros pares y impares.exe.config
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\bin\Debug\Numeros pares y impares.exe
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\bin\Debug\Numeros pares y impares.pdb
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros pares y impares.exe
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros pares y impares.pdb
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros_pares_y_impares.Form2.resources
+C:\Users\guill\OneDrive\excel para negocios\Documentos\Rescate MDPE\Numeros pares y impares\Numeros pares y impares\obj\Debug\Numeros_pares_y_impares.Form3.resources
